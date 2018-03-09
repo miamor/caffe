@@ -1,4 +1,4 @@
-SSD, FSSD, YOLO implemented.
+# SSD, FSSD, YOLO implemented.
 
 Build:
   ```Shell
@@ -9,5 +9,5 @@ Build:
   make py
   ```
 
-I use this just to build the caffe environment only.
-The tool for furthur development is here: 
+I use this just to build the caffe environment only.    
+The tool for furthur development is [here](http://github.com/miamor/CF_tools)
